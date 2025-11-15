@@ -66,6 +66,8 @@ The Tokyo 2020 Olympics dataset is sourced from Kaggle and includes:
 - Azure Data Factory pipeline pulls raw CSV data from GitHub
 - Data is ingested into Azure Data Lake Gen2 (raw zone)
 - Automated scheduling ensures data freshness
+<img width="1880" height="930" alt="Screenshot 2025-11-14 023916" src="https://github.com/user-attachments/assets/8068b4fa-1bc9-4df9-846a-418bafcb6f2d" />
+
 
 ### 2️⃣ Transform
 - Azure Databricks processes data using PySpark
