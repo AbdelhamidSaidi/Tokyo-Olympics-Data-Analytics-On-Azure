@@ -114,9 +114,6 @@ The Tokyo 2020 Olympics dataset is sourced from Kaggle and includes:
 | ETL Pipeline | ✅ Complete |
 | Data Transformation | ✅ Complete |
 | Analytics Queries | ✅ Complete |
-| Power BI Dashboard | ✅ Complete |
-| Tableau Dashboard | ✅ Complete |
-| Documentation | ✅ Complete |
 
 ## 🤝 Contributing
 
