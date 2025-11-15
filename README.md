@@ -6,6 +6,7 @@
 [![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=azuresynapseanalytics&logoColor=white)](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 
 
+<img width="1085" height="192" alt="image" src="https://github.com/user-attachments/assets/34c2db84-96ca-4bdd-922d-b97b1de2d357" />
 
 ## 🎯 Project Overview
 
