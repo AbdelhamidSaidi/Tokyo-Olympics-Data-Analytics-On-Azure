@@ -20,7 +20,8 @@ This project demonstrates a complete **cloud-based data engineering solution** f
 
 ## 🏗️ Architecture
 
-![Project Architecture](assets/olympic-azure-architecture.png)
+<img width="1137" height="430" alt="image" src="https://github.com/user-attachments/assets/3abd9628-bd92-4260-850a-b50f4f0f43e9" />
+
 
 ### Data Flow
 ```
